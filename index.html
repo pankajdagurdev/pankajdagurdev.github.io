@@ -1,0 +1,1296 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	
+	<!-- Title -->
+	<title>Butazzo Pizza - Restaurant Website Templates | Empowering Your Food Business | Alissio</title>
+	
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Alissio">
+	<meta name="robots" content="">
+	<meta name="keywords" content="restaurant, restaurant website templates, restaurant template, food, restro, hotel, bootstrap 5, bootstrap, html, frontend, butazzo pizza, responsive template, shop, cart, menu, taste, blog, service, cook, customers, website, hungry, shop cart, fast food, table booking, website templates for restaurants, food website templates">
+	<meta name="description" content="Boost your food business with Butazzo's restaurant website templates. Our professionally designed templates cater specifically to the needs of restaurants, offering visually stunning and functional designs. Choose from a variety of food website templates that are perfect for showcasing your menu, promoting your services, and attracting hungry customers. Partner with Alissio to create an impressive online presence for your restaurant. Start driving more traffic and growing your business today.">
+	
+	<!-- Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    
+	<!-- Favicon icon -->
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="256x256" href="assets/images/favicon/android-chrome-192x192.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="assets/images/favicon/android-chrome-512x512.png">
+	<link rel="icon" type="image/png" href="assets/images/favicon/favicon.ico">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
+	<link rel="mask-icon" href="assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#0b1f3c">
+	<meta name="theme-color" content="#ffffff">  
+
+	<!-- Stylesheet -->
+	<link href="assets/vendor/animate/animate.css" rel="stylesheet">
+	<link href="assets/vendor/magnific-popup/magnific-popup.min.css" rel="stylesheet">
+	<link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+	<link href="assets/vendor/bootstrap-select/css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/vendor/tempus-dominus/css/tempus-dominus.min.css" rel="stylesheet">
+	
+	<!-- Custom Stylesheet -->
+	<link rel="stylesheet" href="assets/vendor/rangeslider/rangeslider.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900" rel="stylesheet">
+	
+</head>
+<body id="bg">
+
+<!-- Loading -->
+<div id="loading-area3" class="loading-page-2">
+	<span class="text">Butazzo Pizza</span>
+</div>
+
+<!-- Page Wrapper -->
+<div class="page-wraper">
+	
+	<!-- Header -->
+	<header class="site-header mo-left header header-transparent transparent-white style-2">
+		<!-- Main Header -->
+		<div class="sticky-header main-bar-wraper navbar-expand-lg">
+			<div class="main-bar clearfix ">
+				<div class="container-fluid clearfix">
+					
+					<!-- Website Logo -->
+					<div class="logo-header mostion">
+						<a class='anim-logo' href='/home-v4/'><img src="assets/images/logo.png" alt="/"></a>
+					</div>
+					
+					<!-- Nav Toggle Button -->
+					<button class="navbar-toggler navbar-toggler navbar-toggler collapsed navicon justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<span></span>
+						<span></span>
+						<span></span>
+					</button>
+					
+					<!-- EXTRA NAV -->
+					<div class="extra-nav">
+						<div class="extra-cell">
+							<div class="menu-btn">
+								<a href="javascript:void(0);">
+									<svg width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M4.04102 17.3984H29.041" stroke="#222222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+									<path d="M4.04102 8.39844H29.541" stroke="#222222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+									<path d="M4.04102 25.3984H29.041" stroke="#222222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+									</svg>
+								</a>
+							</div>
+						</div>
+					</div>
+					<!-- EXTRA NAV -->
+					<!-- Header Nav -->
+					<div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
+						<div class="logo-header">
+							<a class='anim-logo' href='/home-v4/'><img src="assets/images/logo.png" alt="/"></a>
+						</div>
+						<ul class="nav navbar-nav navbar navbar-left">
+							<li class="sub-menu-down"><a href="javascript:void(0);">Home</a>
+								<ul class="sub-menu">
+									<li><a href="/">Home 1</a></li>
+									<li><a href='/home-v2/'>Home 2</a></li>
+									<li><a href='/home-v3/'>Home 3</a></li>
+									<li><a href='/home-v4/'>Home 4</a></li>
+								</ul>
+							</li>
+							<li class="has-mega-menu">
+								<a href="javascript:void(0);">Pages</a>
+								<ul class="mega-menu">
+									<li><a href="javascript:void(0);">Main Pages</a>
+										<ul>
+											<li><a href='/home-v4/about-us'>About Us</a></li>
+											<li><a href='/home-v4/faq'>FAQ</a></li>
+											<li><a href='/home-v4/team'>Team</a></li>
+											<li><a href='/home-v4/team-detail'>Team Detail</a></li>
+											<li><a href='/home-v4/testimonial'>Testimonial</a></li>
+										</ul>
+									</li>
+									<li><a href="javascript:void(0);">Other Pages</a>
+										<ul>
+											<li><a href='/home-v4/services'>Services</a></li>
+											<li><a href='/home-v4/service-detail'>Service Detail</a></li>
+											<li><a href='/home-v4/error-404'>Error 404</a></li>
+											<li><a href='/home-v4/coming-soon'>Coming Soon</a></li>
+											<li><a href='/home-v4/under-maintenance'>Under Maintenance</a></li>
+										</ul>
+									</li>
+									<li><a href="javascript:void(0);">Our Menus</a>
+										<ul>
+											<li><a href='/home-v4/our-menu-1'>Menu Style List</a></li>
+											<li><a href='/home-v4/our-menu-2'>Menu Style Card</a></li>
+										</ul>
+									</li>
+									<li class="header-adv p-0"><img src="assets/images/adv-img.jpg" alt="/"></li>
+								</ul>
+							</li>
+							<li class="sub-menu-down"><a href="javascript:void(0);">Shop</a>
+								<ul class="sub-menu">
+									<li><a href='/home-v4/shop-style-1'>Shop Style 1</a></li>
+									<li><a href='/home-v4/shop-cart'>Shop Cart</a></li>
+									<li><a href='/home-v4/shop-wishlist'>Shop Wishlist</a></li>
+									<li><a href='/home-v4/shop-checkout'>Shop Checkout</a></li>
+									<li><a href='/home-v4/product-detail'>Product Detail</a></li>
+								</ul>
+							</li>
+							<li class="has-mega-menu">
+								<a href="javascript:void(0);">Blogs</a>
+								<ul class="mega-menu">
+									<li> <a href="javascript:void(0);">Blog Grid</a>
+										<ul>
+											<li><a href='/home-v4/blog-grid-no-sidebar'>No Sidebar</a></li>
+											<li><a href='/home-v4/blog-grid-left-sidebar'>Left Sidebar</a></li>
+											<li><a href='/home-v4/blog-grid-right-sidebar'>Right Sidebar</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:void(0);">Blog List</a>
+										<ul>
+											<li><a href='/home-v4/blog-list-no-sidebar'>No Sidebar</a></li>
+											<li><a href='/home-v4/blog-list-left-sidebar'>Left Sidebar</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:void(0);">Blog Single</a>
+										<ul>
+											<li><a href='/home-v4/blog-standard'>Blog Detail</a></li>
+											<li><a href='/home-v4/blog-detail-left-sidebar'>Blog Details Left Sidebar</a></li>
+											<li><a href='/home-v4/blog-detail-right-sidebar'>Blog Details Right Sidebar</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:void(0);">Blog Masonry</a>
+										<ul>
+											<li><a href='/home-v4/blog-grid-3-masonary'>Blog Grid 3 Masonry</a></li>
+											<li><a href='/home-v4/blog-grid-4-masonary'>Blog Grid 4 Masonry</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="has-mega-menu">
+								<a href="javascript:void(0);">Post Layout</a>
+								<ul class="mega-menu">
+									<li> <a href="javascript:void(0);">Post Types</a>
+										<ul>
+											<li><a href='/home-v4/post-video'>Video Post</a></li>
+											<li><a href='/home-v4/post-link'>Link Post</a></li>
+											<li><a href='/home-v4/post-audio'>Audio Post</a></li>
+											<li><a href='/home-v4/post-quote'>Post Quote</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:void(0);">Multiple Media</a>
+										<ul>	
+											<li><a href='/home-v4/post-banner'>Banner</a></li>
+											<li><a href='/home-v4/post-slide-show'>Slider</a></li>
+											<li><a href='/home-v4/post-gallery'>Gallery</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:void(0);">Post Layout Type</a>
+										<ul>	
+											<li><a href='/home-v4/post-standard'>Standard Post</a></li>
+											<li><a href='/home-v4/post-corner'>Corner Post</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:void(0);">Side Bar</a>
+										<ul>
+											<li><a href='/home-v4/post-left-sidebar'>Left Sidebar</a></li>
+											<li><a href='/home-v4/post-right-sidebar'>Right Sidebar</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li><a href='/home-v4/contact-us'>Contact Us</a></li>
+						</ul>
+						<div class="bp-social-icon">
+							<ul>
+								<li><a target="_blank" class="fab fa-facebook-f" href="https://www.facebook.com/"></a></li>
+								<li><a target="_blank" class="fab fa-twitter" href="https://twitter.com/"></a></li>
+								<li><a target="_blank" class="fab fa-linkedin-in" href="https://www.linkedin.com/"></a></li>
+								<li><a target="_blank" class="fab fa-instagram" href="https://www.instagram.com/"></a></li>
+							</ul>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Main Header End -->
+	</header>
+	
+	<!-- Header -->
+	<div class="contact-sidebar">
+		<div class="contact-box1 d-flex flex-column justify-content-between h-100">
+			<div class="logo-contact logo-header">
+				<a class='anim-logo' href='/home-v4/'><img src="assets/images/logo.png" alt="/"></a>
+			</div>
+			<div class="bp-title">
+				<h4 class="m-b30">Contact Info</h4>
+				<div class="icon-bx-wraper left">
+					<div class="icon-md">
+						<span class="icon-cell"><i class="las la-phone-volume"></i></span> 
+					</div>
+					<div class="icon-content">
+						<h6 class="tilte">Call Now</h6>
+						<p class="m-b0">+(91) 123 456 7890,<br> +(91) 987 654 3210</p>
+					</div>
+				</div>
+				<div class="icon-bx-wraper left">
+					<div class="icon-md">
+						<span class="icon-cell"><i class="las la-envelope-open"></i></span> 
+					</div>
+					<div class="icon-content">
+						<h6 class="tilte">Location</h6>
+						<p class="m-b0">1403 Washington Ave, New Orlea ns, LA 70130, United States</p>
+					</div>
+				</div>
+				<div class="icon-bx-wraper left">
+					<div class="icon-md">
+						<span class="icon-cell"><i class="las la-map-marker"></i></span> 
+					</div>
+					<div class="icon-content">
+						<h6 class="tilte">Email Now</h6>
+						<p class="m-b0">info@example.com, office@example.com</p>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+	<div class="menu-close"></div>
+	
+	<div class="page-content bg-white">
+		<!-- Banner -->
+		<div class="main-bnr-one">
+			<div class="slider-pagination">
+				<div class="main-button-prev"><i class="icon-arrow-up"></i></div>
+				<div class="main-slider-pagination"></div>
+				<div class="main-button-next"><i class="icon-arrow-down"></i></div>
+			</div>
+			<div class="main-slider-1 swiper">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<div class="banner-inner">
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-xl-7 col-lg-7 col-md-7">
+										<div class="banner-content">
+											<span class="sub-title wow fadeInUp" data-wow-delay="0.2s">High Quality Test Station </span>
+											<h1 class="title wow fadeInUp" data-wow-delay="0.4s">Order what you want, we <span class="text-secondary">deliver</span> it <span class="text-primary">freshly</span></h1>
+											<p class="wow fadeInUp" data-wow-delay="0.6s">We are the best food delivery partner for your shops and restaurants, deliver safely and on time</p>
+											<div class="detail-list wow fadeInUp" data-wow-delay="0.8s">
+												<ul>
+													<li><i class="fa-solid fa-check"></i> Pizza Vendor</li>
+													<li><i class="fa-solid fa-check"></i> Vegetarian Specialty</li>
+													<li><i class="fa-solid fa-check"></i> Freezing Ice Cream</li>
+												</ul>
+											</div>
+											<div class="banner-btn d-flex align-items-center wow fadeInUp" data-wow-delay="1s">
+												<a class='btn btn-primary btn-md shadow-primary m-r30 btn-hover-1' href='/home-v4/contact-us'><span>Book a Table</span></a>
+												<a class='btn btn-outline-primary btn-md shadow-primary btn-hover-1' href='/home-v4/about-us'><span>View More</span></a>
+											</div>
+										</div>
+									</div>
+									<div class="col-xl-5 col-lg-5 col-md-5">
+										<div class="banner-media wow fadeInRight" data-wow-delay="1s">
+											<img src="assets/images/main-slider/banner-1.png" alt="/" style="height: 760px;">
+										</div>
+									</div>
+								</div>
+							</div>
+							<img src="assets/images/main-slider/slider1/img3.png" class="img1" alt="/">
+							<img src="assets/images/main-slider/slider1/img1.png" class="img2" alt="/">
+							<img src="assets/images/main-slider/slider1/img2.png" class="img3" alt="/">
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="banner-inner">
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-xl-7 col-lg-7 col-md-7">
+										<div class="banner-content">
+											<span class="sub-title wow fadeInUp" data-wow-delay="0.2s">The Best Food Stations</span>
+											<h1 class="title wow fadeInUp" data-wow-delay="0.4s">Different <span class="text-secondary">spice </span> for a different <span class="text-primary">taste</span></h1>
+											<p class="wow fadeInUp" data-wow-delay="0.6s">It's the perfect dining experience where every dish is crafted with fresh, high-quality ingredients and served by friendly staff who go</p>
+											<div class="banner-btn d-flex align-items-center wow fadeInUp" data-wow-delay="0.8s">
+												<a class='btn btn-primary btn-md shadow-primary m-r30 btn-hover-1' href='/home-v4/contact-us'><span>Book a Table</span></a>
+												<a class='btn btn-outline-primary btn-md shadow-primary btn-hover-1' href='/home-v4/about-us'><span>View More</span></a>
+											</div>
+										</div>
+									</div>
+									<div class="col-xl-5 col-lg-5 col-md-5">
+										<div class="banner-media wow fadeInRight" data-wow-delay="1s">
+											<img src="assets/images/main-slider/banner-2.png" alt="/">
+										</div>
+									</div>
+								</div>
+							</div>
+							<img src="assets/images/main-slider/slider1/img3.png" class="img1" alt="/">
+							<img src="assets/images/main-slider/slider1/img1.png" class="img2" alt="/">
+							<img src="assets/images/main-slider/slider1/img2.png" class="img3" alt="/">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="main-thumb1-area swiper-btn-lr wow fadeInUp" data-wow-delay="0.6s">
+					<div class="swiper main-thumb1">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<div class="food-card">
+									<div class="bp-media m-r10">
+										<img src="assets/images/main-slider/slider1/thumb/pic1.png" alt="/">									
+									</div>
+									<div class="bp-content">
+										<h5 class="title">BreakFast</h5>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="food-card">
+									<div class="bp-media m-r10">
+										<img src="assets/images/main-slider/slider1/thumb/pic2.png" alt="/">									
+									</div>
+									<div class="bp-content">
+										<h5 class="title">Lunch</h5>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="thumb-button-prev btn-prev-1"><i class="fa-solid fa-angle-left"></i></div>
+					<div class="thumb-button-next btn-next-1"><i class="fa-solid fa-angle-right"></i></div>
+				</div>
+			</div>
+		</div>		
+		<!--Banner-->
+		
+		<!-- Popular Foods -->
+		<section class="content-inner overflow-hidden">
+			<div class="container">
+				<div class="section-head menu-align">
+					<h2 class="title mb-0 wow flipInX" data-wow-delay="0.2s">Popular Foods</h2>
+					<div class="pagination-align wow fadeInUp" data-wow-delay="0.4s">
+						<div class="menu-button-prev1 btn-prev rounded-xl btn-hover-2"><i class="fa-solid fa-arrow-left"></i></div>
+						<div class="menu-button-next1 btn-next rounded-xl btn-hover-2"><i class="fa-solid fa-arrow-right"></i></div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="swiper menu-swiper swiper-visible swiper-item-4">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.4s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic1.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Burger</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$10.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.4s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic2.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Hot Rice</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$15.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.6s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic3.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Momos</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$25.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.8s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic4.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Pasta</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$45.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.10s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic5.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Panner</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$20.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.12s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic6.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Soya Rice</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$90.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.4s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic1.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Burger</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$10.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-img-box style-4 box-hover wow fadeInUp" data-wow-delay="0.4s">
+								<div class="menu-detail">
+									<div class="bp-media">
+										<img src="assets/images/menu-small/pic2.png" alt="/">
+									</div>
+									<div class="bp-content">
+										<h6 class="title"><a href='/home-v4/product-detail'>Hot Rice</a></h6>
+										<p>Delicious and Spicy</p>
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span>Regular Price</span>
+									<span class="price">$15.00</span>
+								</div>
+								<a class='detail-btn' href='/home-v4/product-detail'><i class="fa-solid fa-plus"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Popular Foods -->
+		
+		<!-- Icon Wrapper-2 -->
+		<section class="content-inner bg-white">
+			<div class="container">
+				<div class="row icon-wrapper2 gx-lg-5">
+					<div class="col-lg-4 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.2s">
+						<div class="icon-bx-wraper style-2">
+							<div class="icon-bx radius">
+								<span class="icon-cell">
+									<i class="flaticon-offer"></i>
+								</span>
+							</div>
+							<div class="icon-content">
+								<h5 class="bp-title"><a href='/home-v4/services'>Discount Voucher</a></h5>
+								<p>lorem ipsum dolor shit amet lorem ipsum</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.4s">
+						<div class="icon-bx-wraper style-2">
+							<div class="icon-bx radius">
+								<span class="icon-cell">
+									<i class="flaticon-hamburger"></i>
+								</span>
+							</div>
+							<div class="icon-content">
+								<h5 class="bp-title"><a href='/home-v4/services'>Always Fresh</a></h5>
+								<p>lorem ipsum dolor shit amet lorem ipsum</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.6s">
+						<div class="icon-bx-wraper style-2">
+							<div class="icon-bx radius">
+								<span class="icon-cell">
+									<i class="flaticon-room-service"></i>
+								</span>
+							</div>
+							<div class="icon-content">
+								<h5 class="bp-title"><a href='/home-v4/services'>Premium Quality</a></h5>
+								<p>lorem ipsum dolor shit amet lorem ipsum</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Icon Wrapper 2 -->
+		
+		<!--Today's Special-->
+		<section class="content-inner section-wrapper-3 overflow-hidden">
+			<div class="container">
+				<div class="section-head text-center">
+					<h2 class="title wow flipInX" data-wow-delay="0.2s">Today's Special</h2>
+				</div>
+				<div class="row inner-section-wrapper">
+					<div class="col-lg-3 col-md-6 col-sm-6 m-b30 wow fadeInUp" data-wow-delay="0.2s">
+						<div class="bp-img-box style-3 box-hover">
+							<div class="bp-media">
+								<img src="assets/images/gallery/grid2/pic2.jpg" alt="/">
+							</div>
+							<span class="bp-tag">TOP SELLER</span><div class="bp-meta">
+							</div>
+							<div class="bp-content">
+								<h5 class="bp-title"><a href='/home-v4/our-menu-1'>Pasta</a></h5>
+								<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+							</div>
+							<div class="bp-hover-content">
+								<div class="bp-info">
+									<h5 class="bp-title mb-0"><a href='/home-v4/our-menu-1'>Pasta</a></h5>
+									<span class="bp-price">$35.00</span>
+								</div>
+								<a class='btn btn-cart btn-white text-primary btn-square' href='/home-v4/shop-cart'><i class="flaticon-shopping-cart"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 m-b30 wow fadeInUp" data-wow-delay="0.4s">
+						<div class="bp-img-box style-3 box-hover">
+							<div class="bp-media">
+								<img src="assets/images/gallery/grid2/pic5.jpg" alt="/">
+							</div>
+							<span class="bp-tag">TOP SELLER</span>
+							<div class="bp-content">
+								<h5 class="bp-title"><a href='/home-v4/our-menu-1'>Oreo Shake</a></h5>
+								<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+							</div>
+							<div class="bp-hover-content">
+								<div class="bp-info">
+									<h5 class="bp-title mb-0"><a href='/home-v4/our-menu-1'>Shake</a></h5>
+									<span class="bp-price">$55.00</span>
+								</div>
+								<a class='btn btn-cart btn-white text-primary btn-square' href='/home-v4/shop-cart'><i class="flaticon-shopping-cart"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 m-b30 wow fadeInUp" data-wow-delay="0.6s">
+						<div class="bp-img-box style-3 box-hover">
+							<div class="bp-media">
+								<img src="assets/images/gallery/grid2/pic4.jpg" alt="/">
+							</div>
+							<span class="bp-tag">TOP SELLER</span>
+							<div class="bp-content">
+								<h5 class="bp-title"><a href='/home-v4/our-menu-1'>Dal Fry</a></h5>
+								<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+							</div>
+							<div class="bp-hover-content">
+								<div class="bp-info">
+									<h5 class="bp-title mb-0"><a href='/home-v4/our-menu-1'>Dal</a></h5>
+									<span class="bp-price">$25.00</span>
+								</div>
+								<a class='btn btn-cart btn-white text-primary btn-square' href='/home-v4/shop-cart'><i class="flaticon-shopping-cart"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 m-b30 wow fadeInUp" data-wow-delay="0.8s">
+						<div class="bp-img-box style-3 box-hover">
+							<div class="bp-media">
+								<img src="assets/images/gallery/grid2/pic6.jpg" alt="/">
+							</div>
+							<span class="bp-tag">TOP SELLER</span>
+							<div class="bp-content">
+								<h5 class="bp-title"><a href='/home-v4/our-menu-1'>Pizza</a></h5>
+								<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+							</div>
+							<div class="bp-hover-content">
+								<div class="bp-info">
+									<h5 class="bp-title mb-0"><a href='/home-v4/our-menu-1'>Pizza</a></h5>
+									<span class="bp-price">$90.00</span>
+								</div>
+								<a class='btn btn-cart btn-white text-primary btn-square' href='/home-v4/shop-cart'><i class="flaticon-shopping-cart"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-12 text-center m-t10">
+						<a class='btn btn-md btn-primary btn-hover-1' href='/home-v4/our-menu-2'><span>See All Dishes</span></a>
+					</div>
+				</div>
+				<div class="section-head text-center pt-5">
+					<h2 class="title wow flipInX" data-wow-delay="0.2s">Quality Services</h2>
+				</div>
+				<!-- Icon Wrapper 1 -->
+				<div class="icon-wrapper1">
+					<div class="row wow fadeInUp" data-wow-delay="0.2s">
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<div class="icon-bx-wraper style-1 box-hover center" style="background-image: url(assets/images/gallery/grid/pic1.jpg)">
+								<div class="inner-content">
+									<div class="icon-bx m-b25"> 
+										<span class="icon-cell icon-md">
+											<i class="flaticon-restaurant"></i>
+										</span> 
+									</div>
+									<div class="icon-content">
+										<h5 class="bp-title">Restaurant</h5>
+										<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<div class="icon-bx-wraper style-1 box-hover center" style="background-image: url(assets/images/gallery/grid/pic2.jpg)">
+								<div class="inner-content">
+									<div class="icon-bx m-b25"> 
+										<span class="icon-cell icon-md">
+											<i class="flaticon-martini"></i>
+										</span> 
+									</div>
+									<div class="icon-content">
+										<h5 class="bp-title">Bar</h5>
+										<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+									</div>
+								</div>
+							</div>
+					 
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<div class="icon-bx-wraper style-1 box-hover center" style="background-image: url(assets/images/gallery/grid/pic3.jpg)">
+								<div class="inner-content">
+									<div class="icon-bx m-b25"> 
+											<span class="icon-cell icon-md">
+												<i class="flaticon-coffee-cup"></i>
+											</span> 
+										</div>
+									<div class="icon-content">
+										<h5 class="bp-title">Cafe</h5>
+										<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<div class="icon-bx-wraper style-1 box-hover center" style="background-image: url(assets/images/gallery/grid/pic4.jpg)">
+								<div class="inner-content">
+									<div class="m-b25"> 
+										<span class="icon-cell icon-md">
+											<i class="flaticon-cake"></i>
+										</span> 
+									</div>
+									<div class="icon-content">
+										<h5 class="bp-title">Dessert</h5>
+										<p>Lorem ipsum dolor sit amet, dipiscing elit, sed</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Icon Wrapper 1 -->
+			</div>
+			<img class="bg1 bp-parallax" data-parallax-speed="0.05" src="assets/images/background/pic3.png" alt="/">
+			<img class="bg2 bp-parallax" data-parallax-speed="0.05" src="assets/images/background/pic4.png" alt="/">
+		</section>
+		<!--Today's Special-->
+		
+		<!-- Our Menu-->
+		<section class="content-inner">
+			<div class="container">
+				<div class="section-head text-center">
+					<h2 class="title wow flipInX" data-wow-delay="0.2s">Our Menu</h2>
+				</div>
+				<div class="row">
+					<div class="col-lg-12 text-center wow fadeInUp" data-wow-delay="0.4s">
+						<div class="site-filters style-2 clearfix">
+							<ul class="filters" data-bs-toggle="buttons">
+								<li data-filter=".All" class="btn active"><a href="javascript:void(0);"><span><i class="flaticon-fast-food"></i></span>All</a></li>
+								<li data-filter=".pizza" class="btn"><a href="javascript:void(0);"><span><i class="flaticon-pizza-slice"></i></span>PIZZA</a></li>
+								<li data-filter=".burger" class="btn active"><a href="javascript:void(0);"><span><i class="flaticon-hamburger-1"></i></span>BURGER</a></li>
+								<li data-filter=".spicy" class="btn active"><a href="javascript:void(0);"><span><i class="flaticon-chili-pepper"></i></span>SPICY</a></li>
+								<li data-filter=".salad" class="btn active"><a href="javascript:void(0);"><span><i class="flaticon-salad"></i></span>SALAD</a></li>
+								<li data-filter=".drink" class="btn"><a href="javascript:void(0);"><span><i class="flaticon-cocktail"></i></span>COLD DRINK</a></li>
+								<li data-filter=".sweet" class="btn active"><a href="javascript:void(0);"><span><i class="flaticon-cupcake"></i></span>SWEETS</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix">
+					<ul id="masonry" class="row dlab-gallery-listing gallery">
+						<li class="card-container col-lg-6 col-md-6 m-b5 All drink sweet salad">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.4s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic1.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Pulled Chicken SandWich</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$30</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All pizza sweet">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.4s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic2.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>BBQ Chicken Sandwich</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$30</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All salad spicy">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.6s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic3.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Canada Dry Ginger Ale</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$60</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All drink spicy sweet">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.6s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic4.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Honey Mustard Pasta</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$20</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All burger">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.8s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic5.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Martinelli’s Apple Juice</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$80</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All pizza burger">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.8s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic6.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Chicken Honey Plate</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$80</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All burger salad">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.10s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic7.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Mango Mania Smoothie</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$30</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+						<li class="card-container col-lg-6 col-md-6 m-b5 All drink">
+							<div class="bp-img-box style-6 wow fadeInUp" data-wow-delay="0.10s">
+								<div class="bp-media">
+									<img src="assets/images/menu-small/grid/pic8.png" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="bp-head">
+										<span class="header-text"><a href='/home-v4/our-menu-1'>Jamaican Jerk Sandwich</a></span>
+										<span class="img-line"></span>
+										<span class="header-price">$80</span>
+									</div>
+									<p class="bp-body">
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<!-- Our Menu-->
+		
+		<!-- Team Section 1-->
+		<section class="content-inner overflow-hidden bg-light">
+			<div class="container">
+				<div class="section-head text-center">
+					<h2 class="title wow flipInX" data-wow-delay="0.2s">Expert Chefs</h2>
+				</div>
+			</div>
+			<div class="container">
+				<div class="swiper team-swiper swiper-visible swiper-btn-lr">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="bp-team style-1 wow fadeInUp" data-wow-delay="0.2s">
+								<div class="bp-media">
+									<img src="assets/images/team/pic1.jpg" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="clearfix">
+										<h6 class="bp-name"><a href='/home-v4/team-detail'>Sarah Albert</a></h6>
+										<span class="bp-position">Senior Chef</span>
+									</div>
+									<ul class="team-social">
+										<li>
+											<a class="share-btn" href="javascript:void(0);"><i class="flaticon-share"></i></a>									
+											<ul class="sub-team-social">
+												<li><a class="fb-btn" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+												<li><a class="tw-btn" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+												<li><a class="in-btn" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+												<li><a class="lin-btn" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-team style-1 wow fadeInUp" data-wow-delay="0.4s">
+								<div class="bp-media">
+									<img src="assets/images/team/pic2.jpg" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="clearfix">
+										<h6 class="bp-name"><a href='/home-v4/team-detail'>John Doe</a></h6>
+										<span class="bp-position">Senior Chef</span>
+									</div>
+									<ul class="team-social">
+										<li>
+											<a class="share-btn" href="javascript:void(0);"><i class="flaticon-share"></i></a>									
+											<ul class="sub-team-social">
+												<li><a class="fb-btn" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+												<li><a class="tw-btn" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+												<li><a class="in-btn" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+												<li><a class="lin-btn" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-team style-1 wow fadeInUp" data-wow-delay="0.6s">
+								<div class="bp-media">
+									<img src="assets/images/team/pic3.jpg" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="clearfix">
+										<h6 class="bp-name"><a href='/home-v4/team-detail'>Jemy Carline</a></h6>
+										<span class="bp-position">Junior Chef</span>
+									</div>
+									<ul class="team-social">
+										<li>
+											<a class="share-btn" href="javascript:void(0);"><i class="flaticon-share"></i></a>									
+											<ul class="sub-team-social">
+												<li><a class="fb-btn" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+												<li><a class="tw-btn" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+												<li><a class="in-btn" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+												<li><a class="lin-btn" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-team style-1 wow fadeInUp" data-wow-delay="0.8s">
+								<div class="bp-media">
+									<img src="assets/images/team/pic4.jpg" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="clearfix">
+										<h6 class="bp-name"><a href='/home-v4/team-detail'>Marco Bennett</a></h6>
+										<span class="bp-position">Junior Chef</span>
+									</div>
+									<ul class="team-social">
+										<li>
+											<a class="share-btn" href="javascript:void(0);"><i class="flaticon-share"></i></a>									
+											<ul class="sub-team-social">
+												<li><a class="fb-btn" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+												<li><a class="tw-btn" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+												<li><a class="in-btn" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+												<li><a class="lin-btn" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-team style-1 wow fadeInUp" data-wow-delay="0.2s">
+								<div class="bp-media">
+									<img src="assets/images/team/pic5.jpg" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="clearfix">
+										<h6 class="bp-name"><a href='/home-v4/team-detail'>Mia Laurent</a></h6>
+										<span class="bp-position">Senior Chef</span>
+									</div>
+									<ul class="team-social">
+										<li>
+											<a class="share-btn" href="javascript:void(0);"><i class="flaticon-share"></i></a>									
+											<ul class="sub-team-social">
+												<li><a class="fb-btn" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+												<li><a class="tw-btn" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+												<li><a class="in-btn" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+												<li><a class="lin-btn" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="bp-team style-1 wow fadeInUp" data-wow-delay="0.8s">
+								<div class="bp-media">
+									<img src="assets/images/team/pic6.jpg" alt="/">
+								</div>
+								<div class="bp-content">
+									<div class="clearfix">
+										<h6 class="bp-name"><a href='/home-v4/team-detail'>Cotlin Care</a></h6>
+										<span class="bp-position">Junior Chef</span>
+									</div>
+									<ul class="team-social">
+										<li>
+											<a class="share-btn" href="javascript:void(0);"><i class="flaticon-share"></i></a>									
+											<ul class="sub-team-social">
+												<li><a class="fb-btn" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+												<li><a class="tw-btn" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+												<li><a class="in-btn" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+												<li><a class="lin-btn" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="pagination mt-xl-0 m-t40">
+						<div class="team-button-prev btn-prev-long"><i class="fa-solid fa-arrow-left"></i></div>
+						<div class="team-button-next btn-next-long"><i class="fa-solid fa-arrow-right"></i></div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Team Section 1 -->	
+			
+		<!-- Our Blog  -->
+		<section class="content-inner overflow-hidden section-wrapper-6 p-b40 pt-0">
+			<div class="rounded-0 contact-area bg-parallax" style="background-image:url('assets/images/background/pic13.png'); background-attachment: fixed;">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-8 col-md-12 m-b30">
+							<div class="contact-head">
+								<h4 class="title text-white wow fadeInUp" data-wow-delay="0.2s">Book a Table</h4>
+								<p class="text-white opacity-75 wow fadeInUp" data-wow-delay="0.4s">Lorem Ipsum is that it has a more-or-less normal distribution<br> of letters, to using making it look like readable English.</p>
+							</div>
+							<form action="#">
+								<div class="row">
+									<div class="col-lg-6 col-md-6 m-b30 m-xl-b50 wow fadeInUp" data-wow-delay="0.2s">
+										<div class="input-group input-line">
+											<div class="input-group-prepand">
+												<i class="flaticon-user"></i>
+											</div>
+											<input name="bpFirstName" required type="text" class="form-control" placeholder="Your Name">
+										</div>
+									</div>
+									<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.2s">
+										<div class="input-group input-line">
+											<div class="input-group-prepand">
+												<i class="flaticon-phone-call"></i>
+											</div>
+											<input name="bpPhoneNumber" required type="text" class="form-control bp-number" placeholder="Phone Number">
+										</div>
+									</div>
+									<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.4s">
+										<div class="input-group input-line">
+											<div class="input-group-prepand">
+												<i class="flaticon-two-people"></i>
+											</div>
+											<select class="form-select default-select">
+												<option>Number Of People</option>
+												<option>1</option>
+												<option>2</option>
+												<option>3</option>
+												<option>4</option>
+												<option>5</option>
+												<option>6</option>
+												<option>7</option>
+												<option>8</option>
+												<option>9</option>
+												<option>10</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.4s">
+										<div class="input-group input-line">
+											<div class="input-group-prepand">
+												<i class="flaticon-email-1"></i>
+											</div>
+											<input name="bpEmail" required type="text" class="form-control" placeholder="Your Email">
+										</div>
+									</div>
+									<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.6s">
+										<div class="input-group input-line">
+											<div class="input-group-prepand">
+												<i class="flaticon-clock"></i>
+											</div>
+											<input required type="text" class="form-control" id="timePickerOnly" placeholder="Time">
+										</div>
+									</div>
+									<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.6s">
+										<div class="input-group input-line">
+											<div class="input-group-prepand">
+												<i class="flaticon-calendar-date"></i>
+											</div>
+											<input required type="text" class="form-control" id="datePickerOnly" placeholder="Date">
+										</div>
+									</div>
+									<div class="col-lg-12 col-md-12 ">
+										<button type="button" class="btn btn-md btn-primary btn-hover-1 mt-3">
+											<span class="btn-text" data-text="Book a Table">Book a Table</span>
+										</button>
+									</div>
+								</div>
+							</form>
+						</div>
+						<div class="col-lg-4 col-md-12">
+							<div class="widget widget_working bg-primary wow fadeInUp" data-wow-delay="0.4s">
+								<div class="head">
+									<h5 class="title text-white">Contact Info</h5>
+									<p class="text-white opacity-75">Lorem Ipsum is simply dummy text of the printing typesetting industry.</p>
+								</div>
+								<ul>
+									<li>
+										<i class="flaticon-placeholder"></i>
+										<p>1403 Washington Ave, New Orlea ns, LA 70130, United States</p>
+									</li>
+									<li>
+										<i class="flaticon-telephone"></i>
+										<p>+(91) 987-654-3210<br>
+											+(91) 123-456-7890</p>
+									</li>
+									<li>
+										<i class="flaticon-email-1"></i>
+										<p>info@example.com<br>
+										office@example.com</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Our Blog End  -->	
+	
+	</div>
+	
+	<!--Footer-->
+	<footer class="site-footer style-3" id="footer">
+		<div class="footer-bg-wrapper">
+			<div class="container">
+				<div class="footer-top">
+					<div class="footer-subscribe-wrapper">
+						<div class="wrapper-inner">
+							<div class="row justify-content-between">
+								<div class="col-xl-4 col-lg-4 mb-lg-0 m-b20 wow fadeInUp" data-wow-delay="0.2s">
+									<div class="footer-logo">
+										<a class='anim-logo' href='/home-v4/'>
+											<img src="assets/images/logo.png" alt="butazzo logo">
+										</a>
+									</div>
+									<p class="mb-0 font-14">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+								</div>
+								<div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
+									<h5 class="title m-b15">Subscribe To Our Newsletter</h5>
+									<form class="bpSubscribe" action="#" method="post">
+										<div class="bpSubscribeMsg text-white"></div>
+										<div class="input-group">
+											<input name="bpEmail" required="required" type="text" class="form-control border-0" placeholder="Enter Your Email">
+											<div class="input-group-addon">
+												<button name="submit" value="submit" type="submit" class="btn btn-primary btn-hover-3">
+													<span>Subscribe</span><i class="fa-solid fa-paper-plane"></i>
+												</button>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-5 col-md-6 col-6 text-md-start">
+							<h5 class="footer-title wow fadeInUp" data-wow-delay="0.2s">OUR LINKS</h5>
+							<div class="footer-menu wow fadeInUp" data-wow-delay="0.4s">
+								<ul>
+									<li><a href='/home-v4/'>Home</a></li>
+									<li><a href='/home-v4/about-us'>About Us</a></li>
+									<li><a href='/home-v4/services'>Services</a></li>
+									<li><a href='/home-v4/team'>Team</a></li>
+									<li><a href='/home-v4/blog-standard'>Blog</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-7 col-md-6 col-6 text-md-end">
+							<h5 class="footer-title wow fadeInUp" data-wow-delay="0.2s">Help Center</h5>
+							<div class="footer-menu wow fadeInUp" data-wow-delay="0.4s">
+								<ul>
+									<li><a href='/home-v4/faq'>FAQ</a></li>
+									<li><a href='/home-v4/shop-style-1'>Shop</a></li>
+									<li><a href='/home-v4/testimonial'>Testimonials</a></li>
+									<li><a href='/home-v4/contact-us'>Contact Us</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Footer Bottom Part -->
+			<div class="container">
+				<div class="footer-bottom">
+					<div class="row">
+						<div class="col-xl-6 col-md-6 text-md-start">
+							<p>Copyright <span class="current-year">2024</span> All rights reserved.</p>						
+						</div>
+						<div class="col-xl-6 col-md-6 text-md-end">
+							<span class="copyright-text">Crafted With <span class="heart"></span> by <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<img class="bg1 bp-move" src="assets/images/background/pic5.png" alt="/">
+		<img class="bg2 bp-move" src="assets/images/background/pic6.png" alt="/">
+  </footer> 
+	
+	<!-- Scroll to Top -->
+	<div class="scroltop-progress scroltop-primary">
+		<svg width="100%" height="100%" viewBox="-1 -1 102 102">
+			<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+		</svg>
+	</div>
+	
+</div>
+
+<!-- JAVASCRIPT FILES ========================================= -->
+<script src="assets/js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
+<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script src="assets/vendor/magnific-popup/magnific-popup.js"></script><!-- MAGNIFIC POPUP JS -->
+<script src="assets/vendor/masonry/masonry-4.2.2.js"></script><!-- MASONRY -->
+<script src="assets/vendor/masonry/isotope.pkgd.min.js"></script><!-- ISOTOPE -->
+<script src="assets/vendor/imagesloaded/imagesloaded.js"></script><!-- IMAGESLOADED -->
+<script src="assets/vendor/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
+<script src="assets/vendor/wow/wow.js"></script><!-- WOW JS -->
+<script src="assets/vendor/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script><!-- OWL-CAROUSEL -->
+<script src="assets/vendor/popper/popper.js"></script><!-- Popper -->
+<script src="assets/vendor/tempus-dominus/js/tempus-dominus.min.js"></script><!-- Tempus Dominus -->
+<script src="assets/js/bp.carousel.min.js"></script><!-- OWL-CAROUSEL -->
+<script src="assets/js/bp.ajax.js"></script><!-- AJAX -->
+<script src="assets/js/custom.min.js"></script><!-- CUSTOM JS -->
+<script src="assets/vendor/rangeslider/rangeslider.js"></script><!-- CUSTOM JS -->
+</body>
+
+</html>
